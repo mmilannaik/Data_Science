@@ -1,1 +1,0 @@
-# if file exist then it will open a file into write mode and places the cursor at the end of the file

@@ -1,5 +1,0 @@
-After the quality filtration, overall 12 polymorphisms were found. Maybe some of the tool settings in the workflow were too strong, maybe it was the mapping on hg38 instead of hg19.
-1) 12 single nucleotide variants
-2) 0 deletions, 0 insertions
-3) 0 multi-nucleotide variants
-4) 0 complex variants (multiple alternate alleles)
